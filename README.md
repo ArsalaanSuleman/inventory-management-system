@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # inventory-management-system
-Inventory management system
 =======
 # Inventory Management System (DDD + Clean Architecture)
 
